@@ -27,6 +27,8 @@
 * VLC media player
 * 网易云音乐
 * WeGame
+* Google Picasa
+* GIF Movie Gear
 
 ### 学习
 * Visual Studio
@@ -42,7 +44,9 @@
 * MS OneDrive
 
 ### 办公
+* Microsoft Office
 * WPS Office专业版
+* Adobe Acrobat DC
 * Gaaiho Pdf Reader
 * CAJViewer
 * Mendeley Desktop
