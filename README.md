@@ -25,13 +25,14 @@
 
 ### 娱乐
 * VLC media player
+* 腾讯视频
 * 网易云音乐
 * WeGame
 * Google Picasa
 * GIF Movie Gear
 
 ### 学习
-* Visual Studio
+* Visual Studio/Code
 * lantern
 * Anaconda/Python
 * Matlab/Octave
@@ -47,7 +48,6 @@
 * Microsoft Office
 * WPS Office专业版
 * Adobe Acrobat DC
-* Gaaiho Pdf Reader
 * CAJViewer
 * Mendeley Desktop
 * Foxmail
